@@ -1,0 +1,1263 @@
+magic
+tech scmos
+timestamp
+<< pdiffusion >>
+rect 204 174 210 180
+<< labels >>
+rlabel pdiffusion 204 174 210 180 0 cell_no = 1
+<< pdiffusion >>
+rect 174 144 180 150
+<< labels >>
+rlabel pdiffusion 174 144 180 150 0 cell_no = 2
+<< pdiffusion >>
+rect 234 144 240 150
+<< labels >>
+rlabel pdiffusion 234 144 240 150 0 cell_no = 3
+<< pdiffusion >>
+rect 294 24 300 30
+<< labels >>
+rlabel pdiffusion 294 24 300 30 0 cell_no = 4
+<< pdiffusion >>
+rect 234 234 240 240
+<< labels >>
+rlabel pdiffusion 234 234 240 240 0 cell_no = 5
+<< pdiffusion >>
+rect 54 294 60 300
+<< labels >>
+rlabel pdiffusion 54 294 60 300 0 cell_no = 6
+<< pdiffusion >>
+rect 114 24 120 30
+<< labels >>
+rlabel pdiffusion 114 24 120 30 0 cell_no = 7
+<< pdiffusion >>
+rect 264 204 270 210
+<< labels >>
+rlabel pdiffusion 264 204 270 210 0 cell_no = 8
+<< pdiffusion >>
+rect 234 54 240 60
+<< labels >>
+rlabel pdiffusion 234 54 240 60 0 cell_no = 9
+<< pdiffusion >>
+rect 174 54 180 60
+<< labels >>
+rlabel pdiffusion 174 54 180 60 0 cell_no = 10
+<< pdiffusion >>
+rect 84 174 90 180
+<< labels >>
+rlabel pdiffusion 84 174 90 180 0 cell_no = 11
+<< pdiffusion >>
+rect 114 54 120 60
+<< labels >>
+rlabel pdiffusion 114 54 120 60 0 cell_no = 12
+<< pdiffusion >>
+rect 234 24 240 30
+<< labels >>
+rlabel pdiffusion 234 24 240 30 0 cell_no = 13
+<< pdiffusion >>
+rect 114 144 120 150
+<< labels >>
+rlabel pdiffusion 114 144 120 150 0 cell_no = 14
+<< pdiffusion >>
+rect 294 84 300 90
+<< labels >>
+rlabel pdiffusion 294 84 300 90 0 cell_no = 15
+<< pdiffusion >>
+rect 54 144 60 150
+<< labels >>
+rlabel pdiffusion 54 144 60 150 0 cell_no = 16
+<< pdiffusion >>
+rect 54 174 60 180
+<< labels >>
+rlabel pdiffusion 54 174 60 180 0 cell_no = 17
+<< pdiffusion >>
+rect 174 84 180 90
+<< labels >>
+rlabel pdiffusion 174 84 180 90 0 cell_no = 18
+<< pdiffusion >>
+rect 114 264 120 270
+<< labels >>
+rlabel pdiffusion 114 264 120 270 0 cell_no = 19
+<< pdiffusion >>
+rect 54 234 60 240
+<< labels >>
+rlabel pdiffusion 54 234 60 240 0 cell_no = 20
+<< pdiffusion >>
+rect 294 54 300 60
+<< labels >>
+rlabel pdiffusion 294 54 300 60 0 cell_no = 21
+<< pdiffusion >>
+rect 174 24 180 30
+<< labels >>
+rlabel pdiffusion 174 24 180 30 0 cell_no = 22
+<< pdiffusion >>
+rect 84 24 90 30
+<< labels >>
+rlabel pdiffusion 84 24 90 30 0 cell_no = 23
+<< pdiffusion >>
+rect 54 204 60 210
+<< labels >>
+rlabel pdiffusion 54 204 60 210 0 cell_no = 24
+<< pdiffusion >>
+rect 174 114 180 120
+<< labels >>
+rlabel pdiffusion 174 114 180 120 0 cell_no = 25
+<< pdiffusion >>
+rect 24 144 30 150
+<< labels >>
+rlabel pdiffusion 24 144 30 150 0 cell_no = 26
+<< pdiffusion >>
+rect 204 204 210 210
+<< labels >>
+rlabel pdiffusion 204 204 210 210 0 cell_no = 27
+<< pdiffusion >>
+rect 264 24 270 30
+<< labels >>
+rlabel pdiffusion 264 24 270 30 0 cell_no = 28
+<< pdiffusion >>
+rect 174 174 180 180
+<< labels >>
+rlabel pdiffusion 174 174 180 180 0 cell_no = 29
+<< pdiffusion >>
+rect 204 54 210 60
+<< labels >>
+rlabel pdiffusion 204 54 210 60 0 cell_no = 30
+<< pdiffusion >>
+rect 24 54 30 60
+<< labels >>
+rlabel pdiffusion 24 54 30 60 0 cell_no = 31
+<< pdiffusion >>
+rect 54 54 60 60
+<< labels >>
+rlabel pdiffusion 54 54 60 60 0 cell_no = 32
+<< pdiffusion >>
+rect 114 204 120 210
+<< labels >>
+rlabel pdiffusion 114 204 120 210 0 cell_no = 33
+<< pdiffusion >>
+rect 144 294 150 300
+<< labels >>
+rlabel pdiffusion 144 294 150 300 0 cell_no = 34
+<< pdiffusion >>
+rect 234 174 240 180
+<< labels >>
+rlabel pdiffusion 234 174 240 180 0 cell_no = 35
+<< pdiffusion >>
+rect 174 204 180 210
+<< labels >>
+rlabel pdiffusion 174 204 180 210 0 cell_no = 36
+<< pdiffusion >>
+rect 144 264 150 270
+<< labels >>
+rlabel pdiffusion 144 264 150 270 0 cell_no = 37
+<< pdiffusion >>
+rect 294 204 300 210
+<< labels >>
+rlabel pdiffusion 294 204 300 210 0 cell_no = 38
+<< pdiffusion >>
+rect 204 24 210 30
+<< labels >>
+rlabel pdiffusion 204 24 210 30 0 cell_no = 39
+<< pdiffusion >>
+rect 24 174 30 180
+<< labels >>
+rlabel pdiffusion 24 174 30 180 0 cell_no = 40
+<< pdiffusion >>
+rect 144 114 150 120
+<< labels >>
+rlabel pdiffusion 144 114 150 120 0 cell_no = 41
+<< pdiffusion >>
+rect 204 84 210 90
+<< labels >>
+rlabel pdiffusion 204 84 210 90 0 cell_no = 42
+<< pdiffusion >>
+rect 264 144 270 150
+<< labels >>
+rlabel pdiffusion 264 144 270 150 0 cell_no = 43
+<< pdiffusion >>
+rect 144 84 150 90
+<< labels >>
+rlabel pdiffusion 144 84 150 90 0 cell_no = 44
+<< pdiffusion >>
+rect 84 294 90 300
+<< labels >>
+rlabel pdiffusion 84 294 90 300 0 cell_no = 45
+<< pdiffusion >>
+rect 174 294 180 300
+<< labels >>
+rlabel pdiffusion 174 294 180 300 0 cell_no = 46
+<< pdiffusion >>
+rect 114 84 120 90
+<< labels >>
+rlabel pdiffusion 114 84 120 90 0 cell_no = 47
+<< pdiffusion >>
+rect 54 114 60 120
+<< labels >>
+rlabel pdiffusion 54 114 60 120 0 cell_no = 48
+<< pdiffusion >>
+rect 54 264 60 270
+<< labels >>
+rlabel pdiffusion 54 264 60 270 0 cell_no = 49
+<< pdiffusion >>
+rect 114 114 120 120
+<< labels >>
+rlabel pdiffusion 114 114 120 120 0 cell_no = 50
+<< pdiffusion >>
+rect 114 234 120 240
+<< labels >>
+rlabel pdiffusion 114 234 120 240 0 cell_no = 51
+<< pdiffusion >>
+rect 84 144 90 150
+<< labels >>
+rlabel pdiffusion 84 144 90 150 0 cell_no = 52
+<< pdiffusion >>
+rect 114 174 120 180
+<< labels >>
+rlabel pdiffusion 114 174 120 180 0 cell_no = 53
+<< pdiffusion >>
+rect 174 264 180 270
+<< labels >>
+rlabel pdiffusion 174 264 180 270 0 cell_no = 54
+<< pdiffusion >>
+rect 294 114 300 120
+<< labels >>
+rlabel pdiffusion 294 114 300 120 0 cell_no = 55
+<< pdiffusion >>
+rect 234 114 240 120
+<< labels >>
+rlabel pdiffusion 234 114 240 120 0 cell_no = 56
+<< pdiffusion >>
+rect 264 114 270 120
+<< labels >>
+rlabel pdiffusion 264 114 270 120 0 cell_no = 57
+<< pdiffusion >>
+rect 234 204 240 210
+<< labels >>
+rlabel pdiffusion 234 204 240 210 0 cell_no = 58
+<< pdiffusion >>
+rect 24 84 30 90
+<< labels >>
+rlabel pdiffusion 24 84 30 90 0 cell_no = 59
+<< pdiffusion >>
+rect 84 114 90 120
+<< labels >>
+rlabel pdiffusion 84 114 90 120 0 cell_no = 60
+<< pdiffusion >>
+rect 24 264 30 270
+<< labels >>
+rlabel pdiffusion 24 264 30 270 0 cell_no = 61
+<< pdiffusion >>
+rect 144 174 150 180
+<< labels >>
+rlabel pdiffusion 144 174 150 180 0 cell_no = 62
+<< pdiffusion >>
+rect 144 54 150 60
+<< labels >>
+rlabel pdiffusion 144 54 150 60 0 cell_no = 63
+<< pdiffusion >>
+rect 24 114 30 120
+<< labels >>
+rlabel pdiffusion 24 114 30 120 0 cell_no = 64
+<< pdiffusion >>
+rect 24 204 30 210
+<< labels >>
+rlabel pdiffusion 24 204 30 210 0 cell_no = 65
+<< pdiffusion >>
+rect 264 84 270 90
+<< labels >>
+rlabel pdiffusion 264 84 270 90 0 cell_no = 66
+<< pdiffusion >>
+rect 84 204 90 210
+<< labels >>
+rlabel pdiffusion 84 204 90 210 0 cell_no = 67
+<< pdiffusion >>
+rect 84 264 90 270
+<< labels >>
+rlabel pdiffusion 84 264 90 270 0 cell_no = 68
+<< pdiffusion >>
+rect 24 24 30 30
+<< labels >>
+rlabel pdiffusion 24 24 30 30 0 cell_no = 69
+<< pdiffusion >>
+rect 54 24 60 30
+<< labels >>
+rlabel pdiffusion 54 24 60 30 0 cell_no = 70
+<< pdiffusion >>
+rect 174 234 180 240
+<< labels >>
+rlabel pdiffusion 174 234 180 240 0 cell_no = 71
+<< pdiffusion >>
+rect 84 54 90 60
+<< labels >>
+rlabel pdiffusion 84 54 90 60 0 cell_no = 72
+<< pdiffusion >>
+rect 204 234 210 240
+<< labels >>
+rlabel pdiffusion 204 234 210 240 0 cell_no = 73
+<< pdiffusion >>
+rect 264 54 270 60
+<< labels >>
+rlabel pdiffusion 264 54 270 60 0 cell_no = 74
+<< pdiffusion >>
+rect 84 234 90 240
+<< labels >>
+rlabel pdiffusion 84 234 90 240 0 cell_no = 75
+<< pdiffusion >>
+rect 144 144 150 150
+<< labels >>
+rlabel pdiffusion 144 144 150 150 0 cell_no = 76
+<< pdiffusion >>
+rect 114 294 120 300
+<< labels >>
+rlabel pdiffusion 114 294 120 300 0 cell_no = 77
+<< pdiffusion >>
+rect 234 84 240 90
+<< labels >>
+rlabel pdiffusion 234 84 240 90 0 cell_no = 78
+<< pdiffusion >>
+rect 294 144 300 150
+<< labels >>
+rlabel pdiffusion 294 144 300 150 0 cell_no = 79
+<< pdiffusion >>
+rect 264 174 270 180
+<< labels >>
+rlabel pdiffusion 264 174 270 180 0 cell_no = 80
+<< pdiffusion >>
+rect 84 84 90 90
+<< labels >>
+rlabel pdiffusion 84 84 90 90 0 cell_no = 81
+<< pdiffusion >>
+rect 144 234 150 240
+<< labels >>
+rlabel pdiffusion 144 234 150 240 0 cell_no = 82
+<< pdiffusion >>
+rect 204 144 210 150
+<< labels >>
+rlabel pdiffusion 204 144 210 150 0 cell_no = 83
+<< pdiffusion >>
+rect 54 84 60 90
+<< labels >>
+rlabel pdiffusion 54 84 60 90 0 cell_no = 84
+<< pdiffusion >>
+rect 294 174 300 180
+<< labels >>
+rlabel pdiffusion 294 174 300 180 0 cell_no = 85
+<< pdiffusion >>
+rect 204 114 210 120
+<< labels >>
+rlabel pdiffusion 204 114 210 120 0 cell_no = 86
+<< pdiffusion >>
+rect 24 234 30 240
+<< labels >>
+rlabel pdiffusion 24 234 30 240 0 cell_no = 87
+<< pdiffusion >>
+rect 24 294 30 300
+<< labels >>
+rlabel pdiffusion 24 294 30 300 0 cell_no = 88
+<< pdiffusion >>
+rect 144 204 150 210
+<< labels >>
+rlabel pdiffusion 144 204 150 210 0 cell_no = 89
+<< pdiffusion >>
+rect 144 24 150 30
+<< labels >>
+rlabel pdiffusion 144 24 150 30 0 cell_no = 90
+<< polysilicon >>
+rect 205 173 206 174
+rect 208 173 209 174
+rect 205 180 206 181
+rect 208 180 209 181
+<< labels >>
+rlabel polysilicon 205 173 206 174 0 T3
+rlabel polysilicon 208 173 209 174 0 T4
+rlabel polysilicon 205 180 206 181 0 T1
+rlabel polysilicon 208 180 209 181 0 T2
+<< polysilicon >>
+rect 175 143 176 144
+rect 178 143 179 144
+rect 175 150 176 151
+rect 178 150 179 151
+<< labels >>
+rlabel polysilicon 175 143 176 144 0 T3
+rlabel polysilicon 178 143 179 144 0 T4
+rlabel polysilicon 175 150 176 151 0 T1
+rlabel polysilicon 178 150 179 151 0 T2
+<< polysilicon >>
+rect 235 143 236 144
+rect 238 143 239 144
+rect 235 150 236 151
+rect 238 150 239 151
+<< labels >>
+rlabel polysilicon 235 143 236 144 0 T3
+rlabel polysilicon 238 143 239 144 0 T4
+rlabel polysilicon 235 150 236 151 0 T1
+rlabel polysilicon 238 150 239 151 0 T2
+<< polysilicon >>
+rect 295 23 296 24
+rect 298 23 299 24
+rect 295 30 296 31
+rect 298 30 299 31
+<< labels >>
+rlabel polysilicon 295 23 296 24 0 T3
+rlabel polysilicon 298 23 299 24 0 T4
+rlabel polysilicon 295 30 296 31 0 T1
+rlabel polysilicon 298 30 299 31 0 T2
+<< polysilicon >>
+rect 235 233 236 234
+rect 238 233 239 234
+rect 235 240 236 241
+rect 238 240 239 241
+<< labels >>
+rlabel polysilicon 235 233 236 234 0 T3
+rlabel polysilicon 238 233 239 234 0 T4
+rlabel polysilicon 235 240 236 241 0 T1
+rlabel polysilicon 238 240 239 241 0 T2
+<< polysilicon >>
+rect 55 293 56 294
+rect 58 293 59 294
+rect 55 300 56 301
+rect 58 300 59 301
+<< labels >>
+rlabel polysilicon 55 293 56 294 0 T3
+rlabel polysilicon 58 293 59 294 0 T4
+rlabel polysilicon 55 300 56 301 0 T1
+rlabel polysilicon 58 300 59 301 0 T2
+<< polysilicon >>
+rect 115 23 116 24
+rect 118 23 119 24
+rect 115 30 116 31
+rect 118 30 119 31
+<< labels >>
+rlabel polysilicon 115 23 116 24 0 T3
+rlabel polysilicon 118 23 119 24 0 T4
+rlabel polysilicon 115 30 116 31 0 T1
+rlabel polysilicon 118 30 119 31 0 T2
+<< polysilicon >>
+rect 265 203 266 204
+rect 268 203 269 204
+rect 265 210 266 211
+rect 268 210 269 211
+<< labels >>
+rlabel polysilicon 265 203 266 204 0 T3
+rlabel polysilicon 268 203 269 204 0 T4
+rlabel polysilicon 265 210 266 211 0 T1
+rlabel polysilicon 268 210 269 211 0 T2
+<< polysilicon >>
+rect 235 53 236 54
+rect 238 53 239 54
+rect 235 60 236 61
+rect 238 60 239 61
+<< labels >>
+rlabel polysilicon 235 53 236 54 0 T3
+rlabel polysilicon 238 53 239 54 0 T4
+rlabel polysilicon 235 60 236 61 0 T1
+rlabel polysilicon 238 60 239 61 0 T2
+<< polysilicon >>
+rect 175 53 176 54
+rect 178 53 179 54
+rect 175 60 176 61
+rect 178 60 179 61
+<< labels >>
+rlabel polysilicon 175 53 176 54 0 T3
+rlabel polysilicon 178 53 179 54 0 T4
+rlabel polysilicon 175 60 176 61 0 T1
+rlabel polysilicon 178 60 179 61 0 T2
+<< polysilicon >>
+rect 85 173 86 174
+rect 88 173 89 174
+rect 85 180 86 181
+rect 88 180 89 181
+<< labels >>
+rlabel polysilicon 85 173 86 174 0 T3
+rlabel polysilicon 88 173 89 174 0 T4
+rlabel polysilicon 85 180 86 181 0 T1
+rlabel polysilicon 88 180 89 181 0 T2
+<< polysilicon >>
+rect 115 53 116 54
+rect 118 53 119 54
+rect 115 60 116 61
+rect 118 60 119 61
+<< labels >>
+rlabel polysilicon 115 53 116 54 0 T3
+rlabel polysilicon 118 53 119 54 0 T4
+rlabel polysilicon 115 60 116 61 0 T1
+rlabel polysilicon 118 60 119 61 0 T2
+<< polysilicon >>
+rect 235 23 236 24
+rect 238 23 239 24
+rect 235 30 236 31
+rect 238 30 239 31
+<< labels >>
+rlabel polysilicon 235 23 236 24 0 T3
+rlabel polysilicon 238 23 239 24 0 T4
+rlabel polysilicon 235 30 236 31 0 T1
+rlabel polysilicon 238 30 239 31 0 T2
+<< polysilicon >>
+rect 115 143 116 144
+rect 118 143 119 144
+rect 115 150 116 151
+rect 118 150 119 151
+<< labels >>
+rlabel polysilicon 115 143 116 144 0 T3
+rlabel polysilicon 118 143 119 144 0 T4
+rlabel polysilicon 115 150 116 151 0 T1
+rlabel polysilicon 118 150 119 151 0 T2
+<< polysilicon >>
+rect 295 83 296 84
+rect 298 83 299 84
+rect 295 90 296 91
+rect 298 90 299 91
+<< labels >>
+rlabel polysilicon 295 83 296 84 0 T3
+rlabel polysilicon 298 83 299 84 0 T4
+rlabel polysilicon 295 90 296 91 0 T1
+rlabel polysilicon 298 90 299 91 0 T2
+<< polysilicon >>
+rect 55 143 56 144
+rect 58 143 59 144
+rect 55 150 56 151
+rect 58 150 59 151
+<< labels >>
+rlabel polysilicon 55 143 56 144 0 T3
+rlabel polysilicon 58 143 59 144 0 T4
+rlabel polysilicon 55 150 56 151 0 T1
+rlabel polysilicon 58 150 59 151 0 T2
+<< polysilicon >>
+rect 55 173 56 174
+rect 58 173 59 174
+rect 55 180 56 181
+rect 58 180 59 181
+<< labels >>
+rlabel polysilicon 55 173 56 174 0 T3
+rlabel polysilicon 58 173 59 174 0 T4
+rlabel polysilicon 55 180 56 181 0 T1
+rlabel polysilicon 58 180 59 181 0 T2
+<< polysilicon >>
+rect 175 83 176 84
+rect 178 83 179 84
+rect 175 90 176 91
+rect 178 90 179 91
+<< labels >>
+rlabel polysilicon 175 83 176 84 0 T3
+rlabel polysilicon 178 83 179 84 0 T4
+rlabel polysilicon 175 90 176 91 0 T1
+rlabel polysilicon 178 90 179 91 0 T2
+<< polysilicon >>
+rect 115 263 116 264
+rect 118 263 119 264
+rect 115 270 116 271
+rect 118 270 119 271
+<< labels >>
+rlabel polysilicon 115 263 116 264 0 T3
+rlabel polysilicon 118 263 119 264 0 T4
+rlabel polysilicon 115 270 116 271 0 T1
+rlabel polysilicon 118 270 119 271 0 T2
+<< polysilicon >>
+rect 55 233 56 234
+rect 58 233 59 234
+rect 55 240 56 241
+rect 58 240 59 241
+<< labels >>
+rlabel polysilicon 55 233 56 234 0 T3
+rlabel polysilicon 58 233 59 234 0 T4
+rlabel polysilicon 55 240 56 241 0 T1
+rlabel polysilicon 58 240 59 241 0 T2
+<< polysilicon >>
+rect 295 53 296 54
+rect 298 53 299 54
+rect 295 60 296 61
+rect 298 60 299 61
+<< labels >>
+rlabel polysilicon 295 53 296 54 0 T3
+rlabel polysilicon 298 53 299 54 0 T4
+rlabel polysilicon 295 60 296 61 0 T1
+rlabel polysilicon 298 60 299 61 0 T2
+<< polysilicon >>
+rect 175 23 176 24
+rect 178 23 179 24
+rect 175 30 176 31
+rect 178 30 179 31
+<< labels >>
+rlabel polysilicon 175 23 176 24 0 T3
+rlabel polysilicon 178 23 179 24 0 T4
+rlabel polysilicon 175 30 176 31 0 T1
+rlabel polysilicon 178 30 179 31 0 T2
+<< polysilicon >>
+rect 85 23 86 24
+rect 88 23 89 24
+rect 85 30 86 31
+rect 88 30 89 31
+<< labels >>
+rlabel polysilicon 85 23 86 24 0 T3
+rlabel polysilicon 88 23 89 24 0 T4
+rlabel polysilicon 85 30 86 31 0 T1
+rlabel polysilicon 88 30 89 31 0 T2
+<< polysilicon >>
+rect 55 203 56 204
+rect 58 203 59 204
+rect 55 210 56 211
+rect 58 210 59 211
+<< labels >>
+rlabel polysilicon 55 203 56 204 0 T3
+rlabel polysilicon 58 203 59 204 0 T4
+rlabel polysilicon 55 210 56 211 0 T1
+rlabel polysilicon 58 210 59 211 0 T2
+<< polysilicon >>
+rect 175 113 176 114
+rect 178 113 179 114
+rect 175 120 176 121
+rect 178 120 179 121
+<< labels >>
+rlabel polysilicon 175 113 176 114 0 T3
+rlabel polysilicon 178 113 179 114 0 T4
+rlabel polysilicon 175 120 176 121 0 T1
+rlabel polysilicon 178 120 179 121 0 T2
+<< polysilicon >>
+rect 25 143 26 144
+rect 28 143 29 144
+rect 25 150 26 151
+rect 28 150 29 151
+<< labels >>
+rlabel polysilicon 25 143 26 144 0 T3
+rlabel polysilicon 28 143 29 144 0 T4
+rlabel polysilicon 25 150 26 151 0 T1
+rlabel polysilicon 28 150 29 151 0 T2
+<< polysilicon >>
+rect 205 203 206 204
+rect 208 203 209 204
+rect 205 210 206 211
+rect 208 210 209 211
+<< labels >>
+rlabel polysilicon 205 203 206 204 0 T3
+rlabel polysilicon 208 203 209 204 0 T4
+rlabel polysilicon 205 210 206 211 0 T1
+rlabel polysilicon 208 210 209 211 0 T2
+<< polysilicon >>
+rect 265 23 266 24
+rect 268 23 269 24
+rect 265 30 266 31
+rect 268 30 269 31
+<< labels >>
+rlabel polysilicon 265 23 266 24 0 T3
+rlabel polysilicon 268 23 269 24 0 T4
+rlabel polysilicon 265 30 266 31 0 T1
+rlabel polysilicon 268 30 269 31 0 T2
+<< polysilicon >>
+rect 175 173 176 174
+rect 178 173 179 174
+rect 175 180 176 181
+rect 178 180 179 181
+<< labels >>
+rlabel polysilicon 175 173 176 174 0 T3
+rlabel polysilicon 178 173 179 174 0 T4
+rlabel polysilicon 175 180 176 181 0 T1
+rlabel polysilicon 178 180 179 181 0 T2
+<< polysilicon >>
+rect 205 53 206 54
+rect 208 53 209 54
+rect 205 60 206 61
+rect 208 60 209 61
+<< labels >>
+rlabel polysilicon 205 53 206 54 0 T3
+rlabel polysilicon 208 53 209 54 0 T4
+rlabel polysilicon 205 60 206 61 0 T1
+rlabel polysilicon 208 60 209 61 0 T2
+<< polysilicon >>
+rect 25 53 26 54
+rect 28 53 29 54
+rect 25 60 26 61
+rect 28 60 29 61
+<< labels >>
+rlabel polysilicon 25 53 26 54 0 T3
+rlabel polysilicon 28 53 29 54 0 T4
+rlabel polysilicon 25 60 26 61 0 T1
+rlabel polysilicon 28 60 29 61 0 T2
+<< polysilicon >>
+rect 55 53 56 54
+rect 58 53 59 54
+rect 55 60 56 61
+rect 58 60 59 61
+<< labels >>
+rlabel polysilicon 55 53 56 54 0 T3
+rlabel polysilicon 58 53 59 54 0 T4
+rlabel polysilicon 55 60 56 61 0 T1
+rlabel polysilicon 58 60 59 61 0 T2
+<< polysilicon >>
+rect 115 203 116 204
+rect 118 203 119 204
+rect 115 210 116 211
+rect 118 210 119 211
+<< labels >>
+rlabel polysilicon 115 203 116 204 0 T3
+rlabel polysilicon 118 203 119 204 0 T4
+rlabel polysilicon 115 210 116 211 0 T1
+rlabel polysilicon 118 210 119 211 0 T2
+<< polysilicon >>
+rect 145 293 146 294
+rect 148 293 149 294
+rect 145 300 146 301
+rect 148 300 149 301
+<< labels >>
+rlabel polysilicon 145 293 146 294 0 T3
+rlabel polysilicon 148 293 149 294 0 T4
+rlabel polysilicon 145 300 146 301 0 T1
+rlabel polysilicon 148 300 149 301 0 T2
+<< polysilicon >>
+rect 235 173 236 174
+rect 238 173 239 174
+rect 235 180 236 181
+rect 238 180 239 181
+<< labels >>
+rlabel polysilicon 235 173 236 174 0 T3
+rlabel polysilicon 238 173 239 174 0 T4
+rlabel polysilicon 235 180 236 181 0 T1
+rlabel polysilicon 238 180 239 181 0 T2
+<< polysilicon >>
+rect 175 203 176 204
+rect 178 203 179 204
+rect 175 210 176 211
+rect 178 210 179 211
+<< labels >>
+rlabel polysilicon 175 203 176 204 0 T3
+rlabel polysilicon 178 203 179 204 0 T4
+rlabel polysilicon 175 210 176 211 0 T1
+rlabel polysilicon 178 210 179 211 0 T2
+<< polysilicon >>
+rect 145 263 146 264
+rect 148 263 149 264
+rect 145 270 146 271
+rect 148 270 149 271
+<< labels >>
+rlabel polysilicon 145 263 146 264 0 T3
+rlabel polysilicon 148 263 149 264 0 T4
+rlabel polysilicon 145 270 146 271 0 T1
+rlabel polysilicon 148 270 149 271 0 T2
+<< polysilicon >>
+rect 295 203 296 204
+rect 298 203 299 204
+rect 295 210 296 211
+rect 298 210 299 211
+<< labels >>
+rlabel polysilicon 295 203 296 204 0 T3
+rlabel polysilicon 298 203 299 204 0 T4
+rlabel polysilicon 295 210 296 211 0 T1
+rlabel polysilicon 298 210 299 211 0 T2
+<< polysilicon >>
+rect 205 23 206 24
+rect 208 23 209 24
+rect 205 30 206 31
+rect 208 30 209 31
+<< labels >>
+rlabel polysilicon 205 23 206 24 0 T3
+rlabel polysilicon 208 23 209 24 0 T4
+rlabel polysilicon 205 30 206 31 0 T1
+rlabel polysilicon 208 30 209 31 0 T2
+<< polysilicon >>
+rect 25 173 26 174
+rect 28 173 29 174
+rect 25 180 26 181
+rect 28 180 29 181
+<< labels >>
+rlabel polysilicon 25 173 26 174 0 T3
+rlabel polysilicon 28 173 29 174 0 T4
+rlabel polysilicon 25 180 26 181 0 T1
+rlabel polysilicon 28 180 29 181 0 T2
+<< polysilicon >>
+rect 145 113 146 114
+rect 148 113 149 114
+rect 145 120 146 121
+rect 148 120 149 121
+<< labels >>
+rlabel polysilicon 145 113 146 114 0 T3
+rlabel polysilicon 148 113 149 114 0 T4
+rlabel polysilicon 145 120 146 121 0 T1
+rlabel polysilicon 148 120 149 121 0 T2
+<< polysilicon >>
+rect 205 83 206 84
+rect 208 83 209 84
+rect 205 90 206 91
+rect 208 90 209 91
+<< labels >>
+rlabel polysilicon 205 83 206 84 0 T3
+rlabel polysilicon 208 83 209 84 0 T4
+rlabel polysilicon 205 90 206 91 0 T1
+rlabel polysilicon 208 90 209 91 0 T2
+<< polysilicon >>
+rect 265 143 266 144
+rect 268 143 269 144
+rect 265 150 266 151
+rect 268 150 269 151
+<< labels >>
+rlabel polysilicon 265 143 266 144 0 T3
+rlabel polysilicon 268 143 269 144 0 T4
+rlabel polysilicon 265 150 266 151 0 T1
+rlabel polysilicon 268 150 269 151 0 T2
+<< polysilicon >>
+rect 145 83 146 84
+rect 148 83 149 84
+rect 145 90 146 91
+rect 148 90 149 91
+<< labels >>
+rlabel polysilicon 145 83 146 84 0 T3
+rlabel polysilicon 148 83 149 84 0 T4
+rlabel polysilicon 145 90 146 91 0 T1
+rlabel polysilicon 148 90 149 91 0 T2
+<< polysilicon >>
+rect 85 293 86 294
+rect 88 293 89 294
+rect 85 300 86 301
+rect 88 300 89 301
+<< labels >>
+rlabel polysilicon 85 293 86 294 0 T3
+rlabel polysilicon 88 293 89 294 0 T4
+rlabel polysilicon 85 300 86 301 0 T1
+rlabel polysilicon 88 300 89 301 0 T2
+<< polysilicon >>
+rect 175 293 176 294
+rect 178 293 179 294
+rect 175 300 176 301
+rect 178 300 179 301
+<< labels >>
+rlabel polysilicon 175 293 176 294 0 T3
+rlabel polysilicon 178 293 179 294 0 T4
+rlabel polysilicon 175 300 176 301 0 T1
+rlabel polysilicon 178 300 179 301 0 T2
+<< polysilicon >>
+rect 115 83 116 84
+rect 118 83 119 84
+rect 115 90 116 91
+rect 118 90 119 91
+<< labels >>
+rlabel polysilicon 115 83 116 84 0 T3
+rlabel polysilicon 118 83 119 84 0 T4
+rlabel polysilicon 115 90 116 91 0 T1
+rlabel polysilicon 118 90 119 91 0 T2
+<< polysilicon >>
+rect 55 113 56 114
+rect 58 113 59 114
+rect 55 120 56 121
+rect 58 120 59 121
+<< labels >>
+rlabel polysilicon 55 113 56 114 0 T3
+rlabel polysilicon 58 113 59 114 0 T4
+rlabel polysilicon 55 120 56 121 0 T1
+rlabel polysilicon 58 120 59 121 0 T2
+<< polysilicon >>
+rect 55 263 56 264
+rect 58 263 59 264
+rect 55 270 56 271
+rect 58 270 59 271
+<< labels >>
+rlabel polysilicon 55 263 56 264 0 T3
+rlabel polysilicon 58 263 59 264 0 T4
+rlabel polysilicon 55 270 56 271 0 T1
+rlabel polysilicon 58 270 59 271 0 T2
+<< polysilicon >>
+rect 115 113 116 114
+rect 118 113 119 114
+rect 115 120 116 121
+rect 118 120 119 121
+<< labels >>
+rlabel polysilicon 115 113 116 114 0 T3
+rlabel polysilicon 118 113 119 114 0 T4
+rlabel polysilicon 115 120 116 121 0 T1
+rlabel polysilicon 118 120 119 121 0 T2
+<< polysilicon >>
+rect 115 233 116 234
+rect 118 233 119 234
+rect 115 240 116 241
+rect 118 240 119 241
+<< labels >>
+rlabel polysilicon 115 233 116 234 0 T3
+rlabel polysilicon 118 233 119 234 0 T4
+rlabel polysilicon 115 240 116 241 0 T1
+rlabel polysilicon 118 240 119 241 0 T2
+<< polysilicon >>
+rect 85 143 86 144
+rect 88 143 89 144
+rect 85 150 86 151
+rect 88 150 89 151
+<< labels >>
+rlabel polysilicon 85 143 86 144 0 T3
+rlabel polysilicon 88 143 89 144 0 T4
+rlabel polysilicon 85 150 86 151 0 T1
+rlabel polysilicon 88 150 89 151 0 T2
+<< polysilicon >>
+rect 115 173 116 174
+rect 118 173 119 174
+rect 115 180 116 181
+rect 118 180 119 181
+<< labels >>
+rlabel polysilicon 115 173 116 174 0 T3
+rlabel polysilicon 118 173 119 174 0 T4
+rlabel polysilicon 115 180 116 181 0 T1
+rlabel polysilicon 118 180 119 181 0 T2
+<< polysilicon >>
+rect 175 263 176 264
+rect 178 263 179 264
+rect 175 270 176 271
+rect 178 270 179 271
+<< labels >>
+rlabel polysilicon 175 263 176 264 0 T3
+rlabel polysilicon 178 263 179 264 0 T4
+rlabel polysilicon 175 270 176 271 0 T1
+rlabel polysilicon 178 270 179 271 0 T2
+<< polysilicon >>
+rect 295 113 296 114
+rect 298 113 299 114
+rect 295 120 296 121
+rect 298 120 299 121
+<< labels >>
+rlabel polysilicon 295 113 296 114 0 T3
+rlabel polysilicon 298 113 299 114 0 T4
+rlabel polysilicon 295 120 296 121 0 T1
+rlabel polysilicon 298 120 299 121 0 T2
+<< polysilicon >>
+rect 235 113 236 114
+rect 238 113 239 114
+rect 235 120 236 121
+rect 238 120 239 121
+<< labels >>
+rlabel polysilicon 235 113 236 114 0 T3
+rlabel polysilicon 238 113 239 114 0 T4
+rlabel polysilicon 235 120 236 121 0 T1
+rlabel polysilicon 238 120 239 121 0 T2
+<< polysilicon >>
+rect 265 113 266 114
+rect 268 113 269 114
+rect 265 120 266 121
+rect 268 120 269 121
+<< labels >>
+rlabel polysilicon 265 113 266 114 0 T3
+rlabel polysilicon 268 113 269 114 0 T4
+rlabel polysilicon 265 120 266 121 0 T1
+rlabel polysilicon 268 120 269 121 0 T2
+<< polysilicon >>
+rect 235 203 236 204
+rect 238 203 239 204
+rect 235 210 236 211
+rect 238 210 239 211
+<< labels >>
+rlabel polysilicon 235 203 236 204 0 T3
+rlabel polysilicon 238 203 239 204 0 T4
+rlabel polysilicon 235 210 236 211 0 T1
+rlabel polysilicon 238 210 239 211 0 T2
+<< polysilicon >>
+rect 25 83 26 84
+rect 28 83 29 84
+rect 25 90 26 91
+rect 28 90 29 91
+<< labels >>
+rlabel polysilicon 25 83 26 84 0 T3
+rlabel polysilicon 28 83 29 84 0 T4
+rlabel polysilicon 25 90 26 91 0 T1
+rlabel polysilicon 28 90 29 91 0 T2
+<< polysilicon >>
+rect 85 113 86 114
+rect 88 113 89 114
+rect 85 120 86 121
+rect 88 120 89 121
+<< labels >>
+rlabel polysilicon 85 113 86 114 0 T3
+rlabel polysilicon 88 113 89 114 0 T4
+rlabel polysilicon 85 120 86 121 0 T1
+rlabel polysilicon 88 120 89 121 0 T2
+<< polysilicon >>
+rect 25 263 26 264
+rect 28 263 29 264
+rect 25 270 26 271
+rect 28 270 29 271
+<< labels >>
+rlabel polysilicon 25 263 26 264 0 T3
+rlabel polysilicon 28 263 29 264 0 T4
+rlabel polysilicon 25 270 26 271 0 T1
+rlabel polysilicon 28 270 29 271 0 T2
+<< polysilicon >>
+rect 145 173 146 174
+rect 148 173 149 174
+rect 145 180 146 181
+rect 148 180 149 181
+<< labels >>
+rlabel polysilicon 145 173 146 174 0 T3
+rlabel polysilicon 148 173 149 174 0 T4
+rlabel polysilicon 145 180 146 181 0 T1
+rlabel polysilicon 148 180 149 181 0 T2
+<< polysilicon >>
+rect 145 53 146 54
+rect 148 53 149 54
+rect 145 60 146 61
+rect 148 60 149 61
+<< labels >>
+rlabel polysilicon 145 53 146 54 0 T3
+rlabel polysilicon 148 53 149 54 0 T4
+rlabel polysilicon 145 60 146 61 0 T1
+rlabel polysilicon 148 60 149 61 0 T2
+<< polysilicon >>
+rect 25 113 26 114
+rect 28 113 29 114
+rect 25 120 26 121
+rect 28 120 29 121
+<< labels >>
+rlabel polysilicon 25 113 26 114 0 T3
+rlabel polysilicon 28 113 29 114 0 T4
+rlabel polysilicon 25 120 26 121 0 T1
+rlabel polysilicon 28 120 29 121 0 T2
+<< polysilicon >>
+rect 25 203 26 204
+rect 28 203 29 204
+rect 25 210 26 211
+rect 28 210 29 211
+<< labels >>
+rlabel polysilicon 25 203 26 204 0 T3
+rlabel polysilicon 28 203 29 204 0 T4
+rlabel polysilicon 25 210 26 211 0 T1
+rlabel polysilicon 28 210 29 211 0 T2
+<< polysilicon >>
+rect 265 83 266 84
+rect 268 83 269 84
+rect 265 90 266 91
+rect 268 90 269 91
+<< labels >>
+rlabel polysilicon 265 83 266 84 0 T3
+rlabel polysilicon 268 83 269 84 0 T4
+rlabel polysilicon 265 90 266 91 0 T1
+rlabel polysilicon 268 90 269 91 0 T2
+<< polysilicon >>
+rect 85 203 86 204
+rect 88 203 89 204
+rect 85 210 86 211
+rect 88 210 89 211
+<< labels >>
+rlabel polysilicon 85 203 86 204 0 T3
+rlabel polysilicon 88 203 89 204 0 T4
+rlabel polysilicon 85 210 86 211 0 T1
+rlabel polysilicon 88 210 89 211 0 T2
+<< polysilicon >>
+rect 85 263 86 264
+rect 88 263 89 264
+rect 85 270 86 271
+rect 88 270 89 271
+<< labels >>
+rlabel polysilicon 85 263 86 264 0 T3
+rlabel polysilicon 88 263 89 264 0 T4
+rlabel polysilicon 85 270 86 271 0 T1
+rlabel polysilicon 88 270 89 271 0 T2
+<< polysilicon >>
+rect 25 23 26 24
+rect 28 23 29 24
+rect 25 30 26 31
+rect 28 30 29 31
+<< labels >>
+rlabel polysilicon 25 23 26 24 0 T3
+rlabel polysilicon 28 23 29 24 0 T4
+rlabel polysilicon 25 30 26 31 0 T1
+rlabel polysilicon 28 30 29 31 0 T2
+<< polysilicon >>
+rect 55 23 56 24
+rect 58 23 59 24
+rect 55 30 56 31
+rect 58 30 59 31
+<< labels >>
+rlabel polysilicon 55 23 56 24 0 T3
+rlabel polysilicon 58 23 59 24 0 T4
+rlabel polysilicon 55 30 56 31 0 T1
+rlabel polysilicon 58 30 59 31 0 T2
+<< polysilicon >>
+rect 175 233 176 234
+rect 178 233 179 234
+rect 175 240 176 241
+rect 178 240 179 241
+<< labels >>
+rlabel polysilicon 175 233 176 234 0 T3
+rlabel polysilicon 178 233 179 234 0 T4
+rlabel polysilicon 175 240 176 241 0 T1
+rlabel polysilicon 178 240 179 241 0 T2
+<< polysilicon >>
+rect 85 53 86 54
+rect 88 53 89 54
+rect 85 60 86 61
+rect 88 60 89 61
+<< labels >>
+rlabel polysilicon 85 53 86 54 0 T3
+rlabel polysilicon 88 53 89 54 0 T4
+rlabel polysilicon 85 60 86 61 0 T1
+rlabel polysilicon 88 60 89 61 0 T2
+<< polysilicon >>
+rect 205 233 206 234
+rect 208 233 209 234
+rect 205 240 206 241
+rect 208 240 209 241
+<< labels >>
+rlabel polysilicon 205 233 206 234 0 T3
+rlabel polysilicon 208 233 209 234 0 T4
+rlabel polysilicon 205 240 206 241 0 T1
+rlabel polysilicon 208 240 209 241 0 T2
+<< polysilicon >>
+rect 265 53 266 54
+rect 268 53 269 54
+rect 265 60 266 61
+rect 268 60 269 61
+<< labels >>
+rlabel polysilicon 265 53 266 54 0 T3
+rlabel polysilicon 268 53 269 54 0 T4
+rlabel polysilicon 265 60 266 61 0 T1
+rlabel polysilicon 268 60 269 61 0 T2
+<< polysilicon >>
+rect 85 233 86 234
+rect 88 233 89 234
+rect 85 240 86 241
+rect 88 240 89 241
+<< labels >>
+rlabel polysilicon 85 233 86 234 0 T3
+rlabel polysilicon 88 233 89 234 0 T4
+rlabel polysilicon 85 240 86 241 0 T1
+rlabel polysilicon 88 240 89 241 0 T2
+<< polysilicon >>
+rect 145 143 146 144
+rect 148 143 149 144
+rect 145 150 146 151
+rect 148 150 149 151
+<< labels >>
+rlabel polysilicon 145 143 146 144 0 T3
+rlabel polysilicon 148 143 149 144 0 T4
+rlabel polysilicon 145 150 146 151 0 T1
+rlabel polysilicon 148 150 149 151 0 T2
+<< polysilicon >>
+rect 115 293 116 294
+rect 118 293 119 294
+rect 115 300 116 301
+rect 118 300 119 301
+<< labels >>
+rlabel polysilicon 115 293 116 294 0 T3
+rlabel polysilicon 118 293 119 294 0 T4
+rlabel polysilicon 115 300 116 301 0 T1
+rlabel polysilicon 118 300 119 301 0 T2
+<< polysilicon >>
+rect 235 83 236 84
+rect 238 83 239 84
+rect 235 90 236 91
+rect 238 90 239 91
+<< labels >>
+rlabel polysilicon 235 83 236 84 0 T3
+rlabel polysilicon 238 83 239 84 0 T4
+rlabel polysilicon 235 90 236 91 0 T1
+rlabel polysilicon 238 90 239 91 0 T2
+<< polysilicon >>
+rect 295 143 296 144
+rect 298 143 299 144
+rect 295 150 296 151
+rect 298 150 299 151
+<< labels >>
+rlabel polysilicon 295 143 296 144 0 T3
+rlabel polysilicon 298 143 299 144 0 T4
+rlabel polysilicon 295 150 296 151 0 T1
+rlabel polysilicon 298 150 299 151 0 T2
+<< polysilicon >>
+rect 265 173 266 174
+rect 268 173 269 174
+rect 265 180 266 181
+rect 268 180 269 181
+<< labels >>
+rlabel polysilicon 265 173 266 174 0 T3
+rlabel polysilicon 268 173 269 174 0 T4
+rlabel polysilicon 265 180 266 181 0 T1
+rlabel polysilicon 268 180 269 181 0 T2
+<< polysilicon >>
+rect 85 83 86 84
+rect 88 83 89 84
+rect 85 90 86 91
+rect 88 90 89 91
+<< labels >>
+rlabel polysilicon 85 83 86 84 0 T3
+rlabel polysilicon 88 83 89 84 0 T4
+rlabel polysilicon 85 90 86 91 0 T1
+rlabel polysilicon 88 90 89 91 0 T2
+<< polysilicon >>
+rect 145 233 146 234
+rect 148 233 149 234
+rect 145 240 146 241
+rect 148 240 149 241
+<< labels >>
+rlabel polysilicon 145 233 146 234 0 T3
+rlabel polysilicon 148 233 149 234 0 T4
+rlabel polysilicon 145 240 146 241 0 T1
+rlabel polysilicon 148 240 149 241 0 T2
+<< polysilicon >>
+rect 205 143 206 144
+rect 208 143 209 144
+rect 205 150 206 151
+rect 208 150 209 151
+<< labels >>
+rlabel polysilicon 205 143 206 144 0 T3
+rlabel polysilicon 208 143 209 144 0 T4
+rlabel polysilicon 205 150 206 151 0 T1
+rlabel polysilicon 208 150 209 151 0 T2
+<< polysilicon >>
+rect 55 83 56 84
+rect 58 83 59 84
+rect 55 90 56 91
+rect 58 90 59 91
+<< labels >>
+rlabel polysilicon 55 83 56 84 0 T3
+rlabel polysilicon 58 83 59 84 0 T4
+rlabel polysilicon 55 90 56 91 0 T1
+rlabel polysilicon 58 90 59 91 0 T2
+<< polysilicon >>
+rect 295 173 296 174
+rect 298 173 299 174
+rect 295 180 296 181
+rect 298 180 299 181
+<< labels >>
+rlabel polysilicon 295 173 296 174 0 T3
+rlabel polysilicon 298 173 299 174 0 T4
+rlabel polysilicon 295 180 296 181 0 T1
+rlabel polysilicon 298 180 299 181 0 T2
+<< polysilicon >>
+rect 205 113 206 114
+rect 208 113 209 114
+rect 205 120 206 121
+rect 208 120 209 121
+<< labels >>
+rlabel polysilicon 205 113 206 114 0 T3
+rlabel polysilicon 208 113 209 114 0 T4
+rlabel polysilicon 205 120 206 121 0 T1
+rlabel polysilicon 208 120 209 121 0 T2
+<< polysilicon >>
+rect 25 233 26 234
+rect 28 233 29 234
+rect 25 240 26 241
+rect 28 240 29 241
+<< labels >>
+rlabel polysilicon 25 233 26 234 0 T3
+rlabel polysilicon 28 233 29 234 0 T4
+rlabel polysilicon 25 240 26 241 0 T1
+rlabel polysilicon 28 240 29 241 0 T2
+<< polysilicon >>
+rect 25 293 26 294
+rect 28 293 29 294
+rect 25 300 26 301
+rect 28 300 29 301
+<< labels >>
+rlabel polysilicon 25 293 26 294 0 T3
+rlabel polysilicon 28 293 29 294 0 T4
+rlabel polysilicon 25 300 26 301 0 T1
+rlabel polysilicon 28 300 29 301 0 T2
+<< polysilicon >>
+rect 145 203 146 204
+rect 148 203 149 204
+rect 145 210 146 211
+rect 148 210 149 211
+<< labels >>
+rlabel polysilicon 145 203 146 204 0 T3
+rlabel polysilicon 148 203 149 204 0 T4
+rlabel polysilicon 145 210 146 211 0 T1
+rlabel polysilicon 148 210 149 211 0 T2
+<< polysilicon >>
+rect 145 23 146 24
+rect 148 23 149 24
+rect 145 30 146 31
+rect 148 30 149 31
+<< labels >>
+rlabel polysilicon 145 23 146 24 0 T3
+rlabel polysilicon 148 23 149 24 0 T4
+rlabel polysilicon 145 30 146 31 0 T1
+rlabel polysilicon 148 30 149 31 0 T2
