@@ -24,15 +24,20 @@ Here are the steps involved in the algorithm:
 ROUTING:
 The input for a channel routing problem consists of two groups of figures: one indicating the pinnumbers at the top of the channel, and the other indicating the pin numbers at the bottom of the
 channel. We utilized the Breadth-First Search (BFS) algorithm to execute the routing process for the placed cells.When a source is provided as input, the BFS algorithm examines the neighboring cells to determine if they are vacant or locked. If they are locked, the algorithm checks the next four neighboring cells. If theyare vacant, the counter value increments after each iteration, and the four neighboring cells are checked for vacancy.
+
 The above process is repeated until the source reaches the destination cell. After this, we use backtracking to find the shortest path by checking for the least integer value at the destination side. The value present in the destination cell is decremented until it reaches 1. We aim to have fewer bends in the wires; therefore, we follow certain conditions while decrementing the value. If the decremental value is in the left or right direction, we stay in the i-row and increment or decrement the j-column based on the
 decremental value. If the decremental value is in the up or down direction, we stay in the j-column and increment or decrement the i-row based on the decremental value. This approach results in fewer bends.
+
 After the path is found, we mark it as -1 and make the cells neighboring to the path in j+1 and j-1 cells as -1. Finally, all cells are made vacant except the path and its neighboring areas. This entire process needs to be repeated until all the net connections are completed
+
 Integration of Placement and routing:
-As the output of the force directed placement algorithm is simply a matrix of cells, it cannot be utilized directly to execute channel routing. For channel routing, a collection of top and bottom arrays are
-required, with some empty spaces in between for the feed-through cells. To satisfy this requirement, a larger matrix (BoundingBox_router) was produced from the unit grid
+
+As the output of the force directed placement algorithm is simply a matrix of cells, it cannot be utilized directly to execute channel routing. For channel routing, a collection of top and bottom arrays are required, with some empty spaces in between for the feed-through cells. To satisfy this requirement, a larger matrix (BoundingBox_router) was produced from the unit grid
 Bounding Box router used in Force Directed. The object encompasses information about the cell number, network number, terminal number, and a Boolean value indicating if the location contains a
 feed-through cell or a regular cell. This new data structure has a CellNetTerminalFeed object at each location, making it suitable for beginning the routing process. As a first step, the channel router takes the BoundingBox_router as input and considers each set of arrays (1,2), (3,4), etc. as a collection of top and bottom arrays and performs the insertion of feedthrough
 cells.
+
 Feed through Cell insertion:
+
 In each channel, if a net is encountered only once, it implies that the net cannot be routed in the current channel and must be fed through to the next one. This is accomplished via a straightforward traversal through the selected Top and Bottom arrays. For each net requiring a feed-through, the nearest available feed-through location on the matrix is calculated and assigned the net number. This procedure is repeated for all channels.
 Upon completion, we will have a fully connected array of channels with the necessary number of feedthroughs to commence the routing process.
