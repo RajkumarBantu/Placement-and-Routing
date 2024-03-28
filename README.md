@@ -20,6 +20,7 @@ Here are the steps involved in the algorithm:
 4. Determine the target coordinates for the cell utilizing the formula for calculating the optimal position.
 5. If the target location is unoccupied, occupy and lock it. If the target location is occupied but not locked, swap the other cell in that position and perform a ripple for the moved cell. If the target location is locked, place the cell in the nearest vacant position and increment the abort count by 1, then continue.
 6. Continue with the ripple until the ripple flag is set to true. If the abort limit has been reached, halt the iteration and begin a new one, repeating steps 3 through 6.
+
 ROUTING:
 The input for a channel routing problem consists of two groups of figures: one indicating the pinnumbers at the top of the channel, and the other indicating the pin numbers at the bottom of the
 channel. We utilized the Breadth-First Search (BFS) algorithm to execute the routing process for the placed cells.When a source is provided as input, the BFS algorithm examines the neighboring cells to determine if they are vacant or locked. If they are locked, the algorithm checks the next four neighboring cells. If theyare vacant, the counter value increments after each iteration, and the four neighboring cells are checked for vacancy.
